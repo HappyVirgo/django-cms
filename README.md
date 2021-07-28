@@ -22,7 +22,7 @@ A free, open-source Blog CMS based on the "Django" and "Editorial" HTML5 theme.
 - Auth system (login & logout and forget a password)
 - Front-end forms to create new object
 ------------
-[![](https://s16.picofile.com/file/8419124942/buy_me_a_coffee.png)](https://www.blockchain.com/btc/payment_request?address=1ChqZPGhxpn6HB1WuQh55S3Mf8RydxMiFk&amount=0.00018711 "Buy me a coffee")
+[![](https://s16.picofile.com/file/8419124942/buy_me_a_coffee.png)](https://www.blockchain.com/btc/payment_request?address=0x6096476031836EA60dDABdD77371C5d615d60BAa&amount=0.00018711 "Buy me a coffee")
 - You can buy me a coffee so I can turn it into more open source projects :)
 ------------
 ### Special Thanks
